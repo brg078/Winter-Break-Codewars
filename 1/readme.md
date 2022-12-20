@@ -1,0 +1,1 @@
+This is a simple multiplication function, it just needed a variable declared so it had something to return.
